@@ -1,0 +1,14 @@
+.vscode/
+.gradio/
+__pycache__/
+
+*.jpg
+*.png
+
+app.py 
+Deploy.py
+main.py 
+Tomtat.txt
+testdata.py
+
+
