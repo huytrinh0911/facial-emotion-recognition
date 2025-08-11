@@ -3,8 +3,9 @@
 A deep learning project **Facial Emotion Recognition** using Convolutional Neural Networks (CNN) and OpenCV. This system can detect human faces from images and classify their emotional states into multiple categories.
 
 ### 🌐 Live Demo
-👉 [**Try it on Hugging Face Spaces**](https://huggingface.co/spaces/trinhhuy/predict-emotion)
+👉 [**Try it on Hugging Face Spaces**](https://huggingface.co/spaces/trinhhuy/predict-emotion)  
 
+![test.png](https://raw.githubusercontent.com/huytrinh0911/facial-emotion-recognition/refs/heads/main/test.png)
 ---
 ### 📖 Overview
 The model is trained to classify emotions into the following categories:  
